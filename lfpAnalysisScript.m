@@ -1,0 +1,3 @@
+function [] = getFilteredLFPforSpikeSorting(originalLFP,Fs)
+	
+
